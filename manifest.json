@@ -11,7 +11,7 @@
   "manifestType": "minecraftModpack",
   "manifestVersion": 1,
   "name": "Marxynet",
-  "version": "0.4",
+  "version": "0.5",
   "author": "marxy860597",
   "projectID": 294147,
   "files": [
@@ -153,11 +153,6 @@
     {
       "projectID": 227083,
       "fileID": 2518667,
-      "required": true
-    },
-    {
-      "projectID": 223628,
-      "fileID": 2565186,
       "required": true
     },
     {
@@ -388,6 +383,11 @@
     {
       "projectID": 262823,
       "fileID": 2563109,
+      "required": true
+    },
+    {
+      "projectID": 223628,
+      "fileID": 2558648,
       "required": true
     }
   ],
