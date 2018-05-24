@@ -1,5 +1,5 @@
 #CONFIG ONLY OPTIONS
-ignoreUpdate:0
+ignoreUpdate:1
 updateNotification:true
 settingsButton:false
 allowWrongWorldTeleportation:false
@@ -66,5 +66,5 @@ interface::0:0:false:false:true
 interface::0:135:false:false:false
 interface::120:0:true:false:false
 interface::0:50:true:false:false
-interface:gui.xaero_minimap:0:0:false:false:true
+interface:gui.xaero_minimap:0:0:false:false:false
 #WAYPOINTS HAVE BEEN MOVED TO xaerowaypoints.txt!
