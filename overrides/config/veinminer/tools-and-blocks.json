@@ -12,6 +12,7 @@
         "appliedenergistics2:nether_quartz_axe",
         "draconicevolution:draconic_axe",
         "draconicevolution:wyvern_axe",
+        "extrautils2:fireaxe",
         "minecraft:diamond_axe",
         "minecraft:golden_axe",
         "minecraft:iron_axe",
@@ -86,7 +87,13 @@
         "minecraft:log2",
         "tconstruct:slime_leaves",
         "thaumcraft:log_greatwood/0",
-        "thaumcraft:log_silverwood/0"
+        "thaumcraft:log_silverwood/0",
+        "twilightforest:dark_leaves",
+        "twilightforest:magic_leaves",
+        "twilightforest:magic_log",
+        "twilightforest:twilight_leaves",
+        "twilightforest:twilight_leaves_3",
+        "twilightforest:twilight_log"
       ]
     },
     "hoe": {
@@ -100,6 +107,11 @@
         "appliedenergistics2:item.ToolNetherQuartzHoe",
         "appliedenergistics2:nether_quartz_hoe",
         "draconicevolution:draconic_hoe",
+        "extrautils2:sickle_diamond",
+        "extrautils2:sickle_gold",
+        "extrautils2:sickle_iron",
+        "extrautils2:sickle_stone",
+        "extrautils2:sickle_wood",
         "minecraft:diamond_hoe",
         "minecraft:golden_hoe",
         "minecraft:iron_hoe",
@@ -324,7 +336,11 @@
         "minecraft:vine",
         "minecraft:web",
         "minecraft:wool",
-        "tconstruct:slime_leaves"
+        "tconstruct:slime_leaves",
+        "twilightforest:dark_leaves",
+        "twilightforest:magic_leaves",
+        "twilightforest:twilight_leaves",
+        "twilightforest:twilight_leaves_3"
       ]
     },
     "shovel": {
